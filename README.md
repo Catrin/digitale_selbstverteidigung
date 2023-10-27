@@ -8,6 +8,7 @@ https://www.digitale-gesellschaft.ch/ratgeber/
 
 ## Anleitungen zur Verschlüsselung
 https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/dossiers/sicherheit/stickcrypt/
+https://www.rz.uni-wuerzburg.de/dienste/it-sicherheit/it-arbeitsplatzsicherheit/schritt-fuer-schritt-anleitung-veracrypt/
 
 ## Tools
 https://schleuder.org/
