@@ -45,6 +45,10 @@ Nextcloud Hub ist die branchenführende, vollständig quelloffene Plattform für
 [digitale-gesellschaft.ch/ratgeber](https://www.digitale-gesellschaft.ch/ratgeber/)
 <br>Eine kurze Anleitung zur digitalen Selbstverteidigung der Digitalen Gesellschaft, eines gemeinnützigen und breit abgestützten Vereins für Bürger- und Konsumenten­schutz im digitalen Zeitalter. Hier gibt es neben der Aufklärung viele Links zu alternativen Tools.
 
+[PrivacyTools.io](https://www.privacytools.io/)
+<br>
+PrivacyTools.io bietet Dienste, Tools und Leitfäden zum Schutz der Privatsphäre, um der globalen Massenüberwachung entgegenzuwirken.
+
 ## darknet
 [torproject](https://www.torproject.org/)
 <br>
@@ -65,6 +69,13 @@ Liste vieler legaler Darknetangebote. Hauptsächlich Darknetlinks der Medienange
 [capulcu.blackblogs.org Band 1](https://capulcu.blackblogs.org/neue-texte/bandi/)
 <br>
 Sehr ausführliche Anleitung zur Nutzung des Tails-Live-Betriebssystems für sichere Kommunikation, Recherche, Bearbeitung und Veröffentlichung sensibler Dokumente
+
+## Anonymität / Privacy
+[prism-break.org](https://prism-break.org/de/)
+<br>
+[privacy-handbuch.de](https://privacy-handbuch.de/)
+<br>
+Das Privacy-Handbuch ist ein kollaboratives Freizeitprojekt von Privacyaktivisten mit umfassender Information über Maßnahmen zur Anonymisierung und Herstellung der Privatsphäre.
 
 ## Gruppen
 [digitalcourage.de](https://digitalcourage.de/)
