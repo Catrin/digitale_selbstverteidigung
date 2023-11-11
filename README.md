@@ -57,6 +57,12 @@ PrivacyTools.io bietet Dienste, Tools und Leitfäden zum Schutz der Privatsphär
 <br>
 Übersiche über alle mobilen Messenger
 
+[Mailvelope](https://mailvelope.com/de)
+Browser Addon für PGP Nutzung in Webmailern
+
+[MIT Keyserver](http://pgp.mit.edu)
+Keyserver des MIT für die Verbreitung öffentlicher PGP Schlüssel
+
 
 ## darknet
 [torproject](https://www.torproject.org/)
