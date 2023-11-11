@@ -21,6 +21,10 @@ Anleitungen zu Veracrypt, KeePass, Windows Firewalls und anderen Schutzmaßnahme
 <br>
 Schritt für Schritt Anleitung zu Veracrypt
 
+[www.youtube.com/watch?v=unWog_OQAxE](https://www.youtube.com/watch?v=unWog_OQAxE)
+<br>
+S/MIME-Tutorial: E-Mails kostenlos signieren & verschlüsseln
+
 ## Tools
 [schleuder.org](https://schleuder.org/)
 <br>
@@ -48,6 +52,11 @@ Nextcloud Hub ist die branchenführende, vollständig quelloffene Plattform für
 [PrivacyTools.io](https://www.privacytools.io/)
 <br>
 PrivacyTools.io bietet Dienste, Tools und Leitfäden zum Schutz der Privatsphäre, um der globalen Massenüberwachung entgegenzuwirken.
+
+[wikipedia: Liste_von_mobilen_Instant-Messengern](https://de.wikipedia.org/wiki/Liste_von_mobilen_Instant-Messengern)
+<br>
+Übersiche über alle mobilen Messenger
+
 
 ## darknet
 [torproject](https://www.torproject.org/)
