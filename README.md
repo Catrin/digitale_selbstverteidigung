@@ -88,9 +88,17 @@ Sehr ausführliche Anleitung zur Nutzung des Tails-Live-Betriebssystems für sic
 ## Anonymität / Privacy
 [prism-break.org](https://prism-break.org/de/)
 <br>
+
 [privacy-handbuch.de](https://privacy-handbuch.de/)
 <br>
 Das Privacy-Handbuch ist ein kollaboratives Freizeitprojekt von Privacyaktivisten mit umfassender Information über Maßnahmen zur Anonymisierung und Herstellung der Privatsphäre.
+
+[datenschmutz.de](https://datenschmutz.de/)
+<br>
+Dieses Wiki versucht, ein wenig Transparenz in den Sumpf von Datenbanken zu bringen, in denen die Polizei, Staatsanwaltschaften, Geheimdienste unsere Daten speichern und speichern lassen incl. Auskunftsgenerator!
+
+[nervenschoner Browserplugin](https://addons.mozilla.org/de/firefox/addon/nervenschoner/)
+<br>Der Blocker der Verbraucherzentrale zaubert Cookie und Einwilligungs Banner einfach weg.
 
 ## Gruppen
 [digitalcourage.de](https://digitalcourage.de/)
