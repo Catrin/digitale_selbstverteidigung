@@ -108,3 +108,8 @@ Digitalcourage e.V. engagiert sich seit 1987 für Grundrechte, Datenschutz und e
 [nsu-watch.info](https://www.nsu-watch.info/)
 <br>
 Neben der Beobachtung von Strafprozessen und Untersuchungsausschüssen ist die Vermittlung von Wissen über Neonazis, den NSU-Komplex und rechten Terror eine wichtige Aufgabe von NSU-Watch.
+
+[Seminar für angewandte Unsicherheit](https://www.unsicherheit.tk/)
+<br>
+Wer von Überwachung reden will darf vom Kapitalismus nicht schweigen. Aktionsgruppe gegen Kameraüberwachung. Mit super [Linkliste](https://www.unsicherheit.tk/links)
+
