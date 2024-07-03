@@ -11,6 +11,9 @@ All Computers Are Beschlagnahmt - eine umfassend informierenden Seite von Hausdu
 <br>
 Wiki zur Selbstverteidigung im (anti-)politischen Alltag. Eine Sammlung von Anleitungen, Werkzeuge und Erklärungen, die von einer solidarischen und emanizpatorischen Bewegung gebraucht werden.
 
+## Widerspruch zur Datenfreigabe
+Warum? [Infos zur Datenfreigabe](./Info-Datenfreigabe.md)
+Wie?  [Musterbrief als Vorlage](./Musterbrief-Widerspruch.md)
 
 ## Anleitungen zur Verschlüsselung
 [lehrerfortbildung-bw.de](https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/dossiers/sicherheit/stickcrypt/)
