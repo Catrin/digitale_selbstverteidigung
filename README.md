@@ -11,6 +11,10 @@ All Computers Are Beschlagnahmt - eine umfassend informierenden Seite von Hausdu
 <br>
 Wiki zur Selbstverteidigung im (anti-)politischen Alltag. Eine Sammlung von Anleitungen, Werkzeuge und Erklärungen, die von einer solidarischen und emanizpatorischen Bewegung gebraucht werden.
 
+[ssd.eff.org/](https://ssd.eff.org/)
+<br>
+We’re the Electronic Frontier Foundation, a member-supported non-profit working to protect online privacy for over thirty-five years. This is Surveillance Self-Defense: our expert guide to protecting you and your friends from online spying.
+
 ## Widerspruch zur Datenfreigabe
 Warum? [Infos zur Datenfreigabe](./Info-Datenfreigabe.md)
 Wie?  [Musterbrief als Vorlage](./Musterbrief-Widerspruch.md)
